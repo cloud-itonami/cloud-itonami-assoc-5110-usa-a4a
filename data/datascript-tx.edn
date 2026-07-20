@@ -1,5 +1,5 @@
 ;; data/datascript-tx.edn — DataScript tx-data derived from
-;; src/association/facts.cljc `association.facts/catalog` (ADR-2607141700
+;; src/association_facts.kotoba through its bounded typed ABI (ADR-2607141700
 ;; Wave 0). No :db/id per entity, same shape as sibling tx-data files.
 ;; `:association-rule/topic` serialized as a vector.
 
